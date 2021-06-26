@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sipan65
 - 👀 I’m interested in Home Assistant
-- 🌱 I’m currently learning More aboutYaml codeing and other aspects of Home Assistant
+- 🌱 I’m currently learning More about Yaml codeing and other aspects of Home Assistant
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
